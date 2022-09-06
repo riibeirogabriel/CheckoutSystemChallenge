@@ -8,6 +8,7 @@ Tip: You can use sdkman to install these dependencies in an easy way.
 
 ## Deploy and Usage
 
+* Ensure that the provided wiremock products API is running
 * execute the `./run.sh` command in terminal
 * Access the Application REST API definition at `http://localhost:8080/swagger-ui/index.html`
 (You also can consume the API with swagger (clicking on "Try It Out" button) or use other REST API Client like Postman)
